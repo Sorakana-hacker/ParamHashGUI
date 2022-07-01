@@ -6,7 +6,7 @@ GUI version of ParamHash by tkgstrator.
 2. Don't use it badly.
 3. Besides, don't violate the law.
 4. Don't forget to respect tkgstrator.
-#How to use?
+# How to use?
 1. Download the file and launch the "ParamHashGUI.exe" or "ParamHashGUI.pyw".
 2. Enter the required information and "スタート".
 3. Have fun.
@@ -43,7 +43,7 @@ GUI version of ParamHash by tkgstrator.
       <D1 Name="mJetFootDamagePerFrame" StringValue="20" />
       <D1 Name="mDamage" StringValue="1200" />
 ```
-#Support
+# Support
 ・Sorakana#8466
 ・[My Server](https://discord.gg/DQB6fcD6qq)
 ## Credits
