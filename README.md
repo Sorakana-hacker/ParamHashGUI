@@ -1,7 +1,7 @@
 # ParamHashGUI
 Automatically replace name value to parameter with xml(bprm).
 GUI version of ParamHash by tkgstrator.
-#Rules
+# Rules
 1. Don't distribute secondary.
 2. Don't use it badly.
 3. Besides, don't violate the law.
